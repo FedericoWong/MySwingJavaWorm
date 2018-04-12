@@ -1,2 +1,2 @@
 # MySwingJavaWorm
-This is a java
+This is a web spyder with sensitive word analyzier written with java
